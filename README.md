@@ -3,7 +3,7 @@
 ## I'm a Systems Analyst in the Transporation Industry
 
 
-- 🏫 I'm currently attending [Florida Polytechnic University]:https://floridapoly.edu, working to attain my Masters of Science in Computer Science (Data Science Track)
+- 🏫 I'm currently attending [Florida Polytechnic University](https://floridapoly.edu), working to attain my Masters of Science in Computer Science (Data Science Track)
 - 🔭 I’m currently working on increasing my R skills!
 - 🌱 I’m currently learning CouchDB, ArangoDB, R, Python, Bash, SQL
 - 👯 I’m looking to collaborate on ...
