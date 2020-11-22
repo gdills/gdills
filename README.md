@@ -10,3 +10,7 @@
 - 💬 Ask me about Power BI, Excel, or Data Warehousing
 - 😄 Pronouns: he/him
 
+### Also, I love my Border Collies!
+
+
+![kimber](https://user-images.githubusercontent.com/70113391/99891568-41956580-2c39-11eb-8b74-2109bc598552.png)
