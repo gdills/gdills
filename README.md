@@ -10,7 +10,7 @@
 - 💬 Ask me about Power BI, Excel, or Data Warehousing
 - 😄 Pronouns: he/him
 
-### Also, I love my Border Collies!
+### I also enjoy visiting the mountains in North/South Carolina!
 
 
-<img src="https://user-images.githubusercontent.com/70113391/99891568-41956580-2c39-11eb-8b74-2109bc598552.png" alt="kimber" width="200"/>
+<img src="https://user-images.githubusercontent.com/70113391/99891731-1f9ce280-2c3b-11eb-8d90-b0ef767fdcba.png" alt="mountains" width="200"/>
